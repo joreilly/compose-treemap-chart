@@ -3,7 +3,7 @@
 kotlin = '1.8.20'
 kotlin-wrappers-js = '1.0.0-pre.593'
 # AGP
-android-build-tools = '8.0.2'
+android-build-tools = '8.4.0'
 # Compose
 compose = '1.4.0'
 compose-compiler = '1.4.6'
