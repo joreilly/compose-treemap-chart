@@ -11,7 +11,7 @@ compose-multiplatform = '1.4.0'
 compose-detekt-rules = '0.0.26'
 compose-runtime-tracing = '1.0.0-alpha03'
 # AndroidX
-core-ktx = '1.10.1'
+core-ktx = '1.13.1'
 appcompat = '1.6.1'
 lifecycle-runtime-ktx = '2.6.1'
 activity-compose = '1.7.2'
